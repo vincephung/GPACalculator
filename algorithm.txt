@@ -1,0 +1,19 @@
+Algorithm for GPA Calculator.
+
+
+NEED TO ACCOUNT FOR CREDITS AS WELL FOR CUMULATIVE GPA
+Method 1: 
+Given all weights like exam 40%, A is 90% B is 80%
+Calculate the grade you need for final to get a certain grade.
+
+Method 2: 
+How would this test grade affect your cumulative GPA, semester GPA.
+
+
+Method 3: 
+With each grade added calculate your current cumulative and semester GPA along with grade in course.
+
+Method 4:
+
+Read syllabus for grade weights or manually input them in yourself.
+
