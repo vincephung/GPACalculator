@@ -3,8 +3,7 @@ gpa calculator that determines your current grade / what grade you need to achie
 
 Inspiration for creating this:
 
-
-Seen and heard a lot of people always asking what their current grade is, how to calculate it, what grade they need to pass/achieve a certain grade.
+I always hear a lot of people always asking what their current grade is, how to calculate it, what grade they need to pass/achieve a certain grade so I decided to make a program for this.
 
 Program will allow the user to input the weights of their grades, for example exams are worth 30%, quizzes are worth 10%.
 
